@@ -1,7 +1,7 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 
 // Your Teachable Machine model
-const MODEL_URL = "https://teachablemachine.withgoogle.com/models/-iJgVAU9z/";
+const MODEL_URL = "https://teachablemachine.withgoogle.com/models/oTnzgBpa5/";
 
 function LeafMark({ className }) {
   return (
